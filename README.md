@@ -201,8 +201,14 @@ $ pip install djangorestframework-jwt
    // {user_id: 1, username: "admin", exp: 1574218962, email: ""}
    ```
 
-## 5) User별 Todo
+## 7. User별 Todo
 
-  
+  ### 1. Django
+
+### 2. Vue
+
+## 8. 비로그인시 로그인 페이지로 이동
+
+
 
 ​    
