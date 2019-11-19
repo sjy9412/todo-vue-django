@@ -1,5 +1,5 @@
 <template>
-  <form class="todo-form" @submit.prevent="todoCreate">
+  <form class="todo-form" @submit="todoCreate">
       <label for="title">todo : </label>
       <input v-model="title" type="text" id="title">
       <button type="submit">등록</button>
