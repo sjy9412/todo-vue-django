@@ -2,7 +2,7 @@
   <div class="todo-list">
       <h2>투두</h2>
       <ul>
-      <p v-for="todo in todos" :key="todo.id">{{ todo.title }}</p>
+      <li v-for="todo in todos" :key="todo.id">{{ todo.title }}</li>
       </ul>
   </div>
 </template>
