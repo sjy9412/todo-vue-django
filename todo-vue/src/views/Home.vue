@@ -87,6 +87,6 @@ export default {
   mounted() {
     this.islogin() // 로그인 되어 있으면
     this.getTodos() // 가져온다
-  }
+  },
 }
 </script>
